@@ -149,7 +149,7 @@
     </hal>
     <hal format="aidl" optional="true">
         <name>vendor.mediatek.hardware.apuware.apusys</name>
-        <version>1-2</version>
+        <version>1-3</version>
         <interface>
             <name>INeuronApusys</name>
             <instance>default</instance>
